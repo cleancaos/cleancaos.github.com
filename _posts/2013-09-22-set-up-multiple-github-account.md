@@ -21,7 +21,7 @@ tags: [git, github, future-reference]
 4. Set up user.name and user.mail
 
 ---
-#### Example variables for this post### 
+#### Sample variables for this post### 
 
 johndoe = Mac OSX User
 
@@ -30,7 +30,7 @@ john@home.com = email 1st github account
 john@work.com = email 2nd github account
 
 ---
-*Step 1: Create SSH keys*
+**Step 1: Create SSH keys**
 
 Within the terminal digit:
 `ssh-keygen -t rsa -C "john.doe@home.com"`
@@ -56,7 +56,7 @@ Do the same for the other key, typing `ssh-add /Users/johndoe/.ssh/id_rsa_work`
 
 <br/>
 
-*Step 2: Upload RSA keys on github*
+**Step 2: Upload RSA keys on github**
 
 Now, we have to copy the public key content and paste it on github.
 
@@ -87,7 +87,7 @@ Copy the public key `pbcopy < ~/.ssh/id_rsa_work.pub` and paste it on your secon
 
 <br/>
 
-*Step 3: Create .config file for RSA keys*
+**Step 3: Create .config file for RSA keys**
 
 In /Users/johndoe/.ssh/ directory, create a file called ".config"
 For each account you'll have 4 lines. You can choose the first of these lines: the "Host" (for further personalization see the references).
@@ -106,7 +106,7 @@ Host jwork
 
 <br/>
 
-*Step 4: Set up user.name and user.email*
+**Step 4: Set up user.name and user.email**
 
 It is important that in the global git configurations it is _not_ configured any user name and email.
 You're gonna set up only local user name and email for every git repository, so you can always choose which account to use.
