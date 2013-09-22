@@ -149,6 +149,7 @@ _Notice that we used the "jhome" host._
 Then you set the url origin to your own repository on github and finally you set-up the local user name and email like before, in that way git knows which account to use and its credentials.
 
 **IDE**
+
 I'm using IntelliJ Idea. Having done all the previous steps you already good. Meaning that the IDE will search for user.name and user.mail in the "config" file of the project.
 
 Have fun.

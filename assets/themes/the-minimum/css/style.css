@@ -378,6 +378,8 @@ pre {
 }
 .unit-article .list-category a, .unit-article .list-tag a {
   border: 0 none;
+  margin-right:  0px; 
+  margin-left: 10px;
 }
 .unit-article .list-category a:hover span, .unit-article .list-tag a:hover span {
   background-color: #f99157;
