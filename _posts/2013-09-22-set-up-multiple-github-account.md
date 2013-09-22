@@ -21,7 +21,7 @@ tags: [git, github, future-reference]
 4. Set up user.name and user.mail
 
 ---
-#### Sample variables for this post### 
+#### Sample variables for this post #### 
 
 johndoe = Mac OSX User
 
