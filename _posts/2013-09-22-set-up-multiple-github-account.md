@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Set Up Multiple Github Accounts"
+title: "Set Up Multiple Github Accounts [using IntelliJ Idea or any other IDE]"
 description: ""
 category: set-up
-tags: [git, github, future-reference]
+tags: [github, future-reference]
 ---
 {% include JB/setup %}
 
@@ -144,11 +144,14 @@ On the page we'll copy the ssh link ![alt text](/img/2013-09-22/ssh-link.jpg)
 In the directory project (that you already created) you digit:
 `git clone git@jhome:plusjade/jekyll-bootstrap.git`
 
-
-[_Notice that we used the "jhome" host._]
+_Notice that we used the "jhome" host._
 
 Then you set the url origin to your own repository on github and finally you set-up the local user name and email like before, in that way git knows which account to use and its credentials.
 
+**IDE**
+I'm using IntelliJ Idea. Having done all the previous steps you already good. Meaning that the IDE will search for user.name and user.mail in the "config" file of the project.
+
+Have fun.
 
 
 ---
