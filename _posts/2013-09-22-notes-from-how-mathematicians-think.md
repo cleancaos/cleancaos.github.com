@@ -8,6 +8,7 @@ comments: false
 ---
 {% include JB/setup %}
 
+
 ##<center>CHAPTER 1 - AMBIGUITY IN MATHEMATICS</center>
 **Ambiguity** involves a single situation or idea that is perceived in two self-consistent but mutually incompatible frames of reference.
 
