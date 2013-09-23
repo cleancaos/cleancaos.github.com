@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Set Up Multiple Github Accounts [using IntelliJ Idea or any other IDE]"
+title: "Set Up Multiple Github Accounts"
 description: ""
-category: set-up
-tags: [github, future-reference]
+category: setups
+tags: [github]
 ---
 {% include JB/setup %}
 
 **Assumptions:** Working on Mac OSX, working with ssh
 
-**Prerequisites:** At least 2 github account already created 
+**Prerequisites:** At least 2 github accounts already created 
 
 <br/>
 
@@ -160,7 +160,7 @@ Have fun.
 - [My git setup](http://kevinoncode.blogspot.it/2011/11/my-git-setup.html)
 - [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 - [How to Work with GitHub and Multiple Accounts](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
-- [multiple ssh private keys](http://www.karan.org/blog/index.php/2009/08/25/multiple-ssh-private-keys)
+- [Multiple ssh private keys](http://www.karan.org/blog/index.php/2009/08/25/multiple-ssh-private-keys)
 - [How to Use Multiple GIT Accounts](http://sandarenu.blogspot.com/2011/09/how-to-use-multiple-git-accounts.html)
 
 <br/>
