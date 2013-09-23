@@ -4,6 +4,7 @@ title: "Refactoring References"
 description: ""
 category: Coding 
 tags: [c-coding-refactoring, reference]
+comments: false
 ---
 {% include JB/setup %}
 

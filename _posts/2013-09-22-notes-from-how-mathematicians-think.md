@@ -4,6 +4,7 @@ title: "Notes from: How Mathematicians Think"
 description: ""
 category: NotesFrom 
 tags: [c-notesfrom-math]
+comments: false
 ---
 {% include JB/setup %}
 

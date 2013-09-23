@@ -4,6 +4,7 @@ title: "Skill with people"
 description: ""
 category: NotesFrom 
 tags: [c-notesfrom-communication]
+comments: false
 ---
 {% include JB/setup %}
 
