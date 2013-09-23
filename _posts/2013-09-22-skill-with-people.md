@@ -17,26 +17,26 @@ Do use them.
 ---
 
 ### Contents
-+ Human insights
-1. Understanding people and human nature
-2. How to talk to people
-3. How to make people feel important
-4. How to agree with people
-5. How to listen to people
-6. How to influence people
-7. How to convince people
-8. How to make up peoples’ minds
-9. How to set peoples’ moods
-10. How to praise people
-11. How to critique people
-12. How to thank people
-13. How to make a good impression
-14. Hot to make a talk
-15. Same final thoughts for you
++ [Human insights](#human)
+1. [Understanding people and human nature](#nature)
+2. [How to talk to people](#talk)
+3. [How to make people feel important](#feel)
+4. [How to agree with people](#agree)
+5. [How to listen to people](#listen)
+6. [How to influence people](#influence)
+7. [How to convince people](#convince)
+8. [How to make up peoples’ minds](#makeup)
+9. [How to set peoples’ moods](#setmood)
+10. [How to praise people](#praise)
+11. [How to critique people](#critique)
+12. [How to thank people](#thank)
+13. [How to make a good impression](#goodimpression)
+14. [Hot to make a talk](#maketalk)
+15. [Same final thoughts for you](#finalthoughts)
 
 ---
 
-### Human insight #1
+### <a id="human">Human insight #1 </a>
 **How we learn (and buy)**
 
 83% through sight
@@ -78,7 +78,7 @@ Methods of instructions | Recall 3 hours later | Recall 70 hours later
 
 <br/>
 
-## Understanding People and Human Nature
+## <a id="nature">Understanding People and Human Nature</a>
 
 The first step in increasing your skill in dealing with people (successful human relations) is to properly understand people and their nature.
 
@@ -105,7 +105,8 @@ So actually, it is a key of life for you to realize that people are primarily in
 
 <br/>
 
-## How to talk to people
+
+## <a id="talk">How to talk to people</a>
 
 When you are talking to people, pick out the most interesting subject in the world to them to talk about. What is the most interesting subject in the world to them?
 
@@ -155,7 +156,7 @@ So when talking to others, talk about them. And get them talking about themselve
 
 <br/>
 
-##How to make people feel important
+## <a id="feel">How to make people feel important</a>
 
 The most universal trait of mankind—a trait you and everybody else have—a trait so strong that it makes men do the things that they do, good and bad—is the desire to be important, the desire to be recognized.
 
@@ -197,7 +198,7 @@ Not to just the leader or spokesperson. A group is more than one.
 
 <br/>
 
-##How to agree with people
+## <a id="agree">How to agree with people</a>
 
 Just about the single most important step you can take to be skillful in human relations is for you to master the Art of Being Agreeable.
 
@@ -239,7 +240,7 @@ The best technique to handle them is to refuse to fight with them. They will spu
 
 <br/>
 
-## How to listen to people
+## <a id="listen">How to listen to people</a>
 
 The more listening you do, the smarter you will become, the better you will he liked, and the better conversationalist you will be.
 
@@ -268,7 +269,7 @@ You will note that these five rules are nothing more than courtesy. Never will c
 
 <br/>
 
-## How to influence people
+## <a id="influence">How to influence people</a>
 
 The first big step in getting people to do what you want them to do is to find out what will make them do it (**what they want**).
 
@@ -291,7 +292,7 @@ To make this principle work from the opposite position, let's assume you are app
 
 <br/>
 
-## How to convince people
+## <a id="convince">How to convince people</a>
 
 It is human nature for people to be skeptical of you and of what you say when you are saying things that are to your own advantage.
 
@@ -316,7 +317,7 @@ Quote people — relate success stories — cite facts and statistics.
 
 <br/>
 
-## How to make up peoples' minds
+## <a id="makeup">How to make up peoples' minds</a>
 
 There is more involved in getting people to say “yes” than luck, guesswork, or their whim.
 
@@ -385,7 +386,7 @@ This is excellent psychology and will be easy for you to practice after the firs
 
 <br/>
 
-## How to set peoples' moods
+## <a id="setmood">How to set peoples' moods</a>
 
 You can make nine out of ten people like you immediately!
 
@@ -417,7 +418,7 @@ It works!
 
 <br/>
 
-## How to praise people
+## <a id="praise">How to praise people</a>
 
 Man does not live on bread alone!
 
@@ -454,7 +455,7 @@ Try it.
 
 <br/>
 
-## How to critique people
+## <a id="critique">How to critique people</a>
 
 The key to successful critiques lies in the spirit of the critiques.
 
@@ -490,7 +491,7 @@ Not on the note, “you've been told off, now get on the ball.” This is the mo
 
 <br/>
 
-## How to thank people
+## <a id="thank">How to thank people</a>
 It is not enough for you to feel grateful and appreciative to people, you should show that gratitude and appreciation to the parties that deserve it.
 
 This is because it is human nature for people to like and respond to those who show them gratitude and appreciation. They respond by giving even more.
@@ -526,7 +527,7 @@ This will be a great asset to you all through your life.
 
 <br/>
 
-## How to make a good impression
+## <a id="goodimpression">How to make a good impression</a>
 
 To a great extent we control others' opinions of us. We start off as strangers to everyone and their opinion of us is largely determined by the way we conduct ourselves. Knowing this, it behooves all of us to conduct ourselves in such a manner that the effect on other people will be good.
 
@@ -575,7 +576,7 @@ Knocking just reveals one's inner self. Be shrewd, be smooth — don't knock.
 
 <br/>
 
-## How to make a talk
+## <a id="maketalk">How to make a talk</a>
 
 Here are five rules that if you observe them, will make you an interesting speaker. They make the difference between interesting talkers and uninteresting ones.
 
@@ -602,7 +603,7 @@ Be natural, be yourself. That is why you are making the talk. Just say what you 
 
 <br/>
 
-## Some final thoughts for YOU
+## <a id="finalthoughts">Some final thoughts for YOU</a>
 
 Frankly, this knowledge on human relations will do you no good until and unless you use it.
 
@@ -613,10 +614,3 @@ Life does not pay off for you on what you can do. Life pays off for you on what 
 {% endhighlight %}
 
 Good luck.
-
-<br/>
-
----
----
-
-<br/>

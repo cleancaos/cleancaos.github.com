@@ -23,10 +23,3 @@ comments: false
 ###Other sites
 + [Refactoring to Pattern Catalog](http://industriallogic.com/xp/refactoring/catalog.html)
 + [What is refactoring](http://c2.com/cgi/wiki?WhatIsRefactoring)
-
-<br/>
-
----
----
-
-<br/>

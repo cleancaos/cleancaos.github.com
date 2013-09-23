@@ -90,7 +90,7 @@ Copy the public key `pbcopy < ~/.ssh/id_rsa_work.pub` and paste it on your secon
 **Step 3: Create .config file for RSA keys**
 
 In /Users/johndoe/.ssh/ directory, create a file called ".config"
-For each account you'll have 4 lines. You can choose the first of these lines: the "Host" (for further personalization see the references).
+For each account you'll have 4 lines. You can choose the first of these lines: the "Host" (for further customization see the references).
 
 {% highlight c %}
 Host jhome
@@ -163,9 +163,3 @@ Have fun.
 - [Multiple ssh private keys](http://www.karan.org/blog/index.php/2009/08/25/multiple-ssh-private-keys)
 - [How to Use Multiple GIT Accounts](http://sandarenu.blogspot.com/2011/09/how-to-use-multiple-git-accounts.html)
 
-<br/>
----
----
-
-
-<br/>
