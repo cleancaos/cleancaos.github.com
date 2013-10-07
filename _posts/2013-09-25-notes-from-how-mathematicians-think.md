@@ -121,3 +121,88 @@ The successful mathematical thinker does not carry around in his head all possib
 1 + 3 + 5 + 7 = 16 = 4^2.
 
 ![alt text](/img/2013-09-25/pattern.jpg "pattern")
+
+When we have isolated “what is really going on” we would then proceed to apply that principle as widely as our imaginations and knowledge will allow. I conclude that mathematics is not merely a body of facts arranged and justified by a stringent logical structure. The logical structure of mathematics gives theorems their stability, but when we remove logic as the focal point of mathematics and replace it by the “idea” we see that the seeming stability of mathematics is not absolute.
+
+
+<br />
+
+##<center>CHAPTER 6 - IDEAS, LOGIC, AND PARADOX</center>
+
+<br />
+
+“Basically, I’m not interested in doing research and I never have been. I’m interested in *understanding*, which is quite a different thing.”
+
+“When the idea is clear, the formal setup is usually unnecessary and redundant. I often feel that I could write it out myself more easily than figuring out what the authors actually wrote.” When we think about the origins and na- ture of mathematical thought we must move upstream, past the formal proofs, past the axioms, into the realm of the mathemati- cal idea. When we enter this realm we encounter a mathematics that looks very different from the mathematics we learned about in school. For one thing, it has lost the quality of absolute neces- sity though not the quality of truth.
+
+Ideas are organizing principles, but what are being organized are other ideas. Mathematics involves ideas organizing ideas in an iterative process that can attain incredible complexity. The ideas that are organized may be processes reified as mathemati- cal objects. In fact if one goes back to the Pythagoreans, for example, one sees how complex and multidimensional were their ideas about what to us are the simplest mathematical objects— the integers one to ten.
+
+“theories are insights which are neither true nor false, but, rather, clear in certain domains, and unclear when extended beyond those domains.”
+
+Goro Shimura once said of his late colleague Yutaka Taniyama, “He was gifted with the special capability of making many mistakes, mostly in the right direction. I envied him for this and tried in vain to imitate him, but found it quite difficult to make good mistakes.”7 A mistake is “good” precisely because it carries within it a legitimate mathematical idea.
+
+**Usually one proceeds from the idea to the logical structure, not from the logical structure to the idea.**
+
+Logic itself, as I said above, is an idea, an extremely powerful organizing principle. It is connected to the notions of rationality and reason. In fact logic is the form in which reason appears in our scientific civilization. Thus logic is a prime example of the creativity of a profound idea and the ability of such an idea to literally change the world. However, we must distinguish between logic as an idea and *the use of logical argument to generate ideas*. Logical arguments do not generate ideas. As I said above, logic organizes, stabilizes and communicates ideas but the idea exists prior to the logical formulation.
+
+Thus ideas arise out of situations that we have called ambiguous. They do not arise out of logical deduction. The logical phase comes after the idea has been formulated and now must be verified, stabilized, refined, and communicated to others.
+
+ Go ̈del’s result puts intrinsic limitations on the reach of deductive systems; that is, it shows that given any (sufficiently complex) deductive system, there are results that are beyond the reach of the system—results that are true but cannot be proved or disproved on the basis of the initial set of axioms. This new result might be proved by adding new axioms to the system (for example, the result itself) but the new strengthened system will itself have unprovable results.
+
+ >Godel’s incompleteness proof is very clever. It’s very paradoxical. It almost looks crazy. Godel starts in effect with the paradox of the liar: the statement “I’m false!” which is neither true nor false. Actually what Godel does is to construct a statement that says of itself, “I’m unprovable!” Now if you can construct such a statement. . . in arithmetic. . . you’re in trouble. Why? Because if that statement is provable, it is by necessity false, and you’re proving false results. If it’s unprovable, as it says of itself, then its true, and mathematics is incomplete.
+
+
+<br />
+
+##<center>CHAPTER 7 - GREAT IDEAS</center>
+
+<br />
+
+>It is in this place, the place of crisis, close to the impossible and the contradictory, that we will find the living heart of the mathematical enterprise.
+
+Great ideas are wrong but they are wrong in a brilliant and inspired way. Many of the seminal advances in mathematics and science are “wrong” in this sense.
+
+Mathematics is about “pattern.” Ran- domness is the absence of pattern. Mathematics studies randomness.
+
+If a test to detect a disease whose prevalence is one in a thousand has a false positive rate of 5 percent, what is the chance that a person found to have a positive result actually has the disease?
+
+“Chaos” is the term that is now used to indicate that simple functions when iterated (as above with T), produce complex, even random behavior.
+
+It looks like a particle whenever we look. In between it acts like a wave. Because measured electron is radically different from unmeasured electron, it appears that we cannot describe this quon (or any other) as it is without referring to the act of observation. If we ignore observations for the moment, we might be tempted to say that an electron is all wave, since this is how it behaves when it’s not looked at. However this description ignores the massive fact that every observation shows nothing but little particles—only their patterns are wavelike. If we say, on the other hand that between measurements the electron is really a particle, we can’t explain the quantum facts. How does each electron on its own know how to find its place in the (wavelike) Airy pattern? What does a single electron “interfere with” to produce Airy’s dark rings?
+
+<br />
+
+---
+
+<br />
+
+# <center>SECTION III - THE LIGHT AND THE EYE OF THE BEHOLDER</center>
+
+<br />
+
+##<center>CHAPTER 8 - THE TRUTH OF MATHEMATICS</center>
+
+<br />
+
+Mathematics is a way of using the mind with the goal of knowing the truth, that is, of obtaining certainty.
+
+For most mathematicians, the idea is the deepest level. It is “what is really going on.” In Chapter 5 mathematical ideas were discussed in their role as “organizing principles.” They organize mathematical situations by revealing relationships that would otherwise be hidden. A mathematical idea is an insight into a relationship between mathematical objects and procedures, a pattern within a mathematical domain.7 The certainty that we feel when we become conscious of a mathematical idea arises at the same time as the idea. The formal proof then becomes a way of objectifying and communicating this certainty. Perhaps the “truth” of the mathematical situation is accessed by means of the mathematical idea.
+
+>An obvious feature of the ordinary world is that it seems to be made of objects. An object is an entity that produces different images from different points of view. . . but all these images can be thought of as being produced by one central cause. . . . Its division into objects is a most important aspect of the everyday world. But the situation is different in the quantum world. . . .
+The separate worlds that we form of the quantum world (wave, particle, for example) from different experimental viewpoints do not combine into one comprehensive whole. There is no single image that corresponds to an electron. The quantum world is not made up of objects. As Heisenberg put it, “Atoms are not things.”
+This does not mean that the quantum world is subjective. The quantum world is as objective as our own: different people taking the same viewpoint see the same thing, but the quantum world is not made of objects (different viewpoints do not add up). The quantum world is objective but objectless.
+An example of a phenomenon which is objective but not an object is the rainbow. A rainbow has no end because the rainbow is not a “thing.” A rainbow appears in a different place for each observer—in fact each of your eyes sees a slightly different rainbow. Yet the rainbow is an objective phenomenon; it can be photographed.
+
+<br />
+
+##<center>CHAPTER 9 - IS MATHEMATIC ALGORITHMIC OR CREATIVE?</center>
+
+<br />
+
+Depth resides in ambiguity but only when the situation is resolved by an act of creativity. 
+
+I claim that there is something that is going on in mathemati- cal thought that is nontrivial. What is this other factor? Mathematics is deep; mathematics is basically a creative activity; math- ematics is one of the most profound ways of using the mind. Much of this book has been an attempt to get a handle on what it means for a piece of mathematics to be “deep.” In a sense the entire book is a discussion of the distinction between the “trivial” and the “nontrivial” within mathematical thought. The question of distinguishing between “depth” and “triviality” is vital! Is profundity a matter of quality or quantity? The propo- nents of artificial intelligence might argue that it is one of quan- tity and that the advent of bigger and faster machines will make all of human thought accessible to machine replication. I maintain that the difference is qualitative.
+
+“Technical skill is the mastery of complexity, while creativity is mastery of simplicity.”
+
+One of the aspects of a living system is that it is creative. Life is continually being confronted with problems and the necessity to resolve these problems. Problems, in life, in art, and in science, are inevitable. Not only can they not be avoided but they are the very things that spur development, that spur evolution. The solutions that these problematic situations bring forth are unpredictable, a priori. The solution to such problems often involves an element that is entirely unexpected—the creative element. A creative solution is not mechanical—it does not involve juggling a number of predetermined elements according to predeter- mined rules. It involves the emergence of a novel way of looking at the original situation. This new way of seeing is often generated by very incompatible tendencies within the original situation that made it problematic in the first place. This is the essence of a living system as it is the essence of mathematics. This living essence is intimately connected to what I have been calling “the light of ambiguity.” The essence of mathematics is that it is nontrivial, creative, and alive.
